@@ -1,0 +1,2 @@
+articleID,pilotNames,copilotNames,pilotTTC,copilotTTC,pilotStartDate,copilotStartDate,completionDate,Author_Assistance,finalOutcome,Insufficient_Information_Errors,locus_typo,locus_specification,locus_analysis,locus_data,locus_unidentified,locus_typo_resolved,locus_specification_resolved,locus_analysis_resolved,locus_data_resolved,locus_unidentified_resolved
+CARPS_EXT_18-6-2015,Lindsey Hasak,NA,120,NA,0011-03-20,NA,0011-09-20,FALSE,Success without author assistance,0,0,0,0,0,0,NA,NA,NA,NA,NA
