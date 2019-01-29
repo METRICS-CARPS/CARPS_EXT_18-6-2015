@@ -1,0 +1,5 @@
+articleID,reportedValue,obtainedValue,valueType,percentageError,comparisonOutcome,eyeballCheck
+CARPS_EXT_18-6-2015,18.25,18.25,mean,0,MATCH,NA
+CARPS_EXT_18-6-2015,18.97,18.97,ci,0,MATCH,NA
+CARPS_EXT_18-6-2015,17.53,17.52,ci,0.05704506560183435,MINOR_ERROR,NA
+CARPS_EXT_18-6-2015,907,907,other,0,MATCH,NA
